@@ -911,7 +911,7 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792374480528,
+ "updatedAt": 1792374482767,
  "health": {
   "82212fe7": {
    "lat": -1,
@@ -6519,11 +6519,10 @@
    "chillyproxy.com",
    "hproxy.com",
    "litport.net",
-   "proxio.io",
-   "spys.me"
+   "proxio.io"
   ],
   "mandatory": [],
-  "savedAt": 1792374479310,
+  "savedAt": 1792374481236,
   "savedBy": "anasibnaljannah@outlook.sa"
  }
 }
