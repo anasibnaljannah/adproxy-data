@@ -1,6 +1,41 @@
 {
  "schema": 2,
- "proxies": [],
+ "proxies": [
+  {
+   "id": "8e54f417",
+   "label": "",
+   "host": "212.47.71.179",
+   "port": 10800,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "add8de39",
+   "label": "",
+   "host": "51.15.20.32",
+   "port": 1088,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  }
+ ],
  "announcements": [],
  "maintenance": false,
  "maintenanceMessage": "",
@@ -9,8 +44,23 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792396456093,
- "health": {},
+ "updatedAt": 1792396507138,
+ "health": {
+  "add8de39": {
+   "lat": 302,
+   "health": "GOOD",
+   "down": 1.5887515151515152,
+   "up": 1.9710075187969924,
+   "at": 1792396468565
+  },
+  "8e54f417": {
+   "lat": 341,
+   "health": "GOOD",
+   "down": 1.5720779610194902,
+   "up": 1.2052597701149426,
+   "at": 1792396468882
+  }
+ },
  "sourceSelection": {
   "selected": [],
   "mandatory": [],
