@@ -1,6 +1,58 @@
 {
  "schema": 2,
- "proxies": [],
+ "proxies": [
+  {
+   "id": "823ab453",
+   "label": "",
+   "host": "51.15.20.32",
+   "port": 1088,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "f91ed3c7",
+   "label": "",
+   "host": "157.90.113.23",
+   "port": 9052,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "184c5fd3",
+   "label": "",
+   "host": "62.83.34.101",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  }
+ ],
  "announcements": [],
  "maintenance": false,
  "maintenanceMessage": "",
@@ -9,8 +61,30 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792397584888,
- "health": {},
+ "updatedAt": 1792397809123,
+ "health": {
+  "823ab453": {
+   "lat": 344,
+   "health": "GOOD",
+   "down": null,
+   "up": 1.1676792873051225,
+   "at": 1792397642564
+  },
+  "184c5fd3": {
+   "lat": 372,
+   "health": "GOOD",
+   "down": 0.449261353898886,
+   "up": 1.6033272171253823,
+   "at": 1792397650221
+  },
+  "f91ed3c7": {
+   "lat": 393,
+   "health": "GOOD",
+   "down": 1.1612137320044298,
+   "up": 1.6697070063694268,
+   "at": 1792397639317
+  }
+ },
  "sourceSelection": {
   "selected": [
    "advanced.name",
