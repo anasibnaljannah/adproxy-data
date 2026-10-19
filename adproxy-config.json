@@ -2,23 +2,6 @@
  "schema": 2,
  "proxies": [
   {
-   "id": "e3c41944",
-   "label": "",
-   "host": "103.68.213.51",
-   "port": 7789,
-   "type": "HTTP",
-   "username": "",
-   "password": "",
-   "country": "ID",
-   "enabled": true,
-   "protected": false,
-   "status": "ARCHIVED_FAILED",
-   "archiveAttempts": 1,
-   "archivedAt": 1792374785731,
-   "archiveLastCheckedAt": 1792374785746,
-   "failReason": "WEAK"
-  },
-  {
    "id": "31319e89",
    "label": "",
    "host": "147.93.172.241",
@@ -112,7 +95,7 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792381515413,
+ "updatedAt": 1792384000836,
  "health": {
   "99a680d6": {
    "lat": -1,
@@ -38169,14 +38152,21 @@
  },
  "sourceSelection": {
   "selected": [
+   "api.openproxylist.xyz",
+   "api.proxyo2.com",
    "chillyproxy.com",
+   "freeproxydb.com",
    "hproxy.com",
    "litport.net",
    "proxio.io",
-   "spys.me"
+   "proxylister.com",
+   "proxynest.live",
+   "proxywing.com",
+   "spys.me",
+   "telexy.net"
   ],
   "mandatory": [],
-  "savedAt": 1792374483214,
+  "savedAt": 1792383999561,
   "savedBy": "anasibnaljannah@outlook.sa"
  }
 }
