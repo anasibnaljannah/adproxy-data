@@ -1,6 +1,75 @@
 {
  "schema": 2,
- "proxies": [],
+ "proxies": [
+  {
+   "id": "a0e3f8e4",
+   "label": "",
+   "host": "47.245.165.201",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "f8f225d6",
+   "label": "",
+   "host": "91.107.179.68",
+   "port": 10809,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "0ec3bd2d",
+   "label": "",
+   "host": "62.83.34.101",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "5fece9f0",
+   "label": "",
+   "host": "109.199.115.190",
+   "port": 8080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  }
+ ],
  "announcements": [],
  "maintenance": false,
  "maintenanceMessage": "",
@@ -9,8 +78,37 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792402608372,
- "health": {},
+ "updatedAt": 1792402781141,
+ "health": {
+  "a0e3f8e4": {
+   "lat": 360,
+   "health": "GOOD",
+   "down": null,
+   "up": null,
+   "at": 1792402775148
+  },
+  "0ec3bd2d": {
+   "lat": 390,
+   "health": "GOOD",
+   "down": 0.9472231255645891,
+   "up": 0.7576416184971099,
+   "at": 1792402772963
+  },
+  "f8f225d6": {
+   "lat": 372,
+   "health": "GOOD",
+   "down": 1.7161636661211128,
+   "up": 1.2945382716049383,
+   "at": 1792402771707
+  },
+  "5fece9f0": {
+   "lat": 417,
+   "health": "GOOD",
+   "down": 0.8701875518672199,
+   "up": 0.8217680250783699,
+   "at": 1792402774325
+  }
+ },
  "sourceSelection": {
   "selected": [
    "advanced.name",
