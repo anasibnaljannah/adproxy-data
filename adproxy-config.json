@@ -1,0 +1,6525 @@
+{
+ "schema": 2,
+ "proxies": [
+  {
+   "id": "528e0b8c",
+   "label": "",
+   "host": "38.210.179.24",
+   "port": 999,
+   "type": "HTTP",
+   "username": "",
+   "password": "",
+   "country": "MX",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "b1cd7f80",
+   "label": "",
+   "host": "102.208.228.90",
+   "port": 8080,
+   "type": "HTTP",
+   "username": "",
+   "password": "",
+   "country": "ZA",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "f974b09c",
+   "label": "",
+   "host": "192.119.102.215",
+   "port": 1314,
+   "type": "HTTP",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "88f0e139",
+   "label": "",
+   "host": "203.177.217.222",
+   "port": 8082,
+   "type": "HTTP",
+   "username": "",
+   "password": "",
+   "country": "PH",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "67282667",
+   "label": "",
+   "host": "91.107.247.193",
+   "port": 7001,
+   "type": "HTTP",
+   "username": "",
+   "password": "",
+   "country": "DE",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "58d7abd8",
+   "label": "",
+   "host": "45.125.64.215",
+   "port": 443,
+   "type": "HTTP",
+   "username": "",
+   "password": "",
+   "country": "HK",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "6202e918",
+   "label": "",
+   "host": "46.101.148.225",
+   "port": 10000,
+   "type": "HTTP",
+   "username": "",
+   "password": "",
+   "country": "DE",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "e3c41944",
+   "label": "",
+   "host": "103.68.213.51",
+   "port": 7789,
+   "type": "HTTP",
+   "username": "",
+   "password": "",
+   "country": "ID",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "6860fab7",
+   "label": "",
+   "host": "72.207.109.5",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "a8918192",
+   "label": "",
+   "host": "68.71.242.118",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "47373068",
+   "label": "",
+   "host": "70.166.65.160",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "3a2289be",
+   "label": "",
+   "host": "43.245.199.34",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "HK",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "ef475afe",
+   "label": "",
+   "host": "192.252.211.193",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "21730ac6",
+   "label": "",
+   "host": "184.170.251.30",
+   "port": 11288,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "3b9c38c4",
+   "label": "",
+   "host": "192.252.210.233",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "b4797430",
+   "label": "",
+   "host": "216.105.130.131",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "3e84a7a8",
+   "label": "",
+   "host": "183.106.215.208",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "KR",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "31319e89",
+   "label": "",
+   "host": "147.93.172.241",
+   "port": 5555,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "SG",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "c539921c",
+   "label": "",
+   "host": "62.83.34.101",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "AT",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "ed3058d5",
+   "label": "",
+   "host": "42.200.177.213",
+   "port": 10808,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "HK",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "5dd52ed0",
+   "label": "",
+   "host": "112.169.210.64",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "KR",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "1dc5a7dc",
+   "label": "",
+   "host": "184.182.240.12",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "a53e3437",
+   "label": "",
+   "host": "216.105.128.144",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "defddf9b",
+   "label": "",
+   "host": "199.66.183.226",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "bb49d3ef",
+   "label": "",
+   "host": "98.175.31.222",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "f9e8957a",
+   "label": "",
+   "host": "103.100.158.115",
+   "port": 10809,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "JP",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "252cc86c",
+   "label": "",
+   "host": "95.163.85.73",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "RU",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "8851b147",
+   "label": "",
+   "host": "47.251.127.154",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "745c7788",
+   "label": "",
+   "host": "157.90.113.23",
+   "port": 9052,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "DE",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "f880fa71",
+   "label": "",
+   "host": "78.109.137.53",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "RU",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "250e2719",
+   "label": "",
+   "host": "143.198.90.221",
+   "port": 1088,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "SG",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "e79f8049",
+   "label": "",
+   "host": "72.194.42.156",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "985a4eba",
+   "label": "",
+   "host": "67.207.92.87",
+   "port": 1088,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "2812ccaf",
+   "label": "",
+   "host": "24.249.199.4",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "c0183bf8",
+   "label": "",
+   "host": "45.138.157.212",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "SC",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "04c1519d",
+   "label": "",
+   "host": "45.140.165.142",
+   "port": 40001,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "FR",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "530cf865",
+   "label": "",
+   "host": "72.194.42.131",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "330414ec",
+   "label": "",
+   "host": "72.206.74.126",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "04dc5d3a",
+   "label": "",
+   "host": "72.207.33.64",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "4e15290a",
+   "label": "",
+   "host": "192.252.214.17",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "9054c60e",
+   "label": "",
+   "host": "45.61.129.165",
+   "port": 9050,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "8edf54ff",
+   "label": "",
+   "host": "67.201.58.190",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "b3c955e4",
+   "label": "",
+   "host": "72.195.101.99",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "1d61655d",
+   "label": "",
+   "host": "67.201.35.145",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "86e61882",
+   "label": "",
+   "host": "103.81.70.71",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "BD",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "a020f9d3",
+   "label": "",
+   "host": "195.135.255.98",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "LV",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "e11084d4",
+   "label": "",
+   "host": "184.181.217.194",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "6568e2e0",
+   "label": "",
+   "host": "46.62.236.59",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "FI",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "c8029a69",
+   "label": "",
+   "host": "31.129.107.119",
+   "port": 443,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "RU",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "83aa956a",
+   "label": "",
+   "host": "212.77.75.25",
+   "port": 1088,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "IT",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "17954001",
+   "label": "",
+   "host": "199.102.104.70",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "02e949b1",
+   "label": "",
+   "host": "155.103.158.243",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "3f1c83d0",
+   "label": "",
+   "host": "98.188.47.132",
+   "port": 4145,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "US",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  }
+ ],
+ "announcements": [],
+ "maintenance": false,
+ "maintenanceMessage": "",
+ "updateMessage": "",
+ "latestVersionCode": 0,
+ "admins": [
+  "anasibnaljannah@outlook.sa"
+ ],
+ "updatedAt": 1792374097899,
+ "health": {
+  "82212fe7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474139
+  },
+  "17954001": {
+   "lat": 907,
+   "health": "GOOD",
+   "down": 0.6440884520884522,
+   "up": 0.7565483405483405,
+   "at": 1792373508955
+  },
+  "89214cf6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "1e76648f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373508880
+  },
+  "5dd52ed0": {
+   "lat": 1565,
+   "health": "GOOD",
+   "down": 0.27172220782586165,
+   "up": 0.10479472316610033,
+   "at": 1792373506761
+  },
+  "1a5a45ce": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500476
+  },
+  "21730ac6": {
+   "lat": 965,
+   "health": "GOOD",
+   "down": 0.5601367521367522,
+   "up": 0.7302061281337048,
+   "at": 1792373492737
+  },
+  "9a286e68": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473123
+  },
+  "1bc4fddc": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504154
+  },
+  "9cfaa803": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491069
+  },
+  "054e0999": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486204
+  },
+  "949e2e16": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485753
+  },
+  "264b128d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499913
+  },
+  "54941853": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473123
+  },
+  "99428812": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488387
+  },
+  "f993db1e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480166
+  },
+  "c5eb851d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491355
+  },
+  "f880fa71": {
+   "lat": 790,
+   "health": "GOOD",
+   "down": 0.7937744133232401,
+   "up": 0.8767357859531772,
+   "at": 1792373500757
+  },
+  "716e0d57": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474743
+  },
+  "28b0ff7b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475145
+  },
+  "c713c381": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478142
+  },
+  "c546dbd1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481164
+  },
+  "eeba5cd6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478148
+  },
+  "f003d017": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492468
+  },
+  "d1d21159": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475146
+  },
+  "73541665": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481229
+  },
+  "4464d99d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495885
+  },
+  "0cdf218b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479155
+  },
+  "b3fac588": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473124
+  },
+  "12f2775f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501116
+  },
+  "424d43d5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483185
+  },
+  "30731369": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496055
+  },
+  "42d02d13": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495548
+  },
+  "2da6e38a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483168
+  },
+  "9054c60e": {
+   "lat": 2110,
+   "health": "GOOD",
+   "down": 0.4146207987346778,
+   "up": 0.3801943437273386,
+   "at": 1792373507229
+  },
+  "4248cf70": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490576
+  },
+  "b5975b11": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475141
+  },
+  "3c5b9cb9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490442
+  },
+  "37ca8c4e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481175
+  },
+  "355b1bfd": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499006
+  },
+  "253d4e70": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493892
+  },
+  "2d4681c4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477162
+  },
+  "4985fa12": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486730
+  },
+  "8ca7c58c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495802
+  },
+  "3e5630e3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473245
+  },
+  "919c8a2e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474140
+  },
+  "6ca55310": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475745
+  },
+  "2638d911": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482473
+  },
+  "e55921f1": {
+   "lat": 1481,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373483341
+  },
+  "bd1be110": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474143
+  },
+  "bfcf691d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483272
+  },
+  "21319999": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496236
+  },
+  "cead0c27": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475135
+  },
+  "2495e22d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481484
+  },
+  "548da311": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477149
+  },
+  "4fa07bd5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475139
+  },
+  "036829e6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500814
+  },
+  "750f7c96": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479458
+  },
+  "f7bfae04": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479155
+  },
+  "8d36a2eb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "2de34584": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486732
+  },
+  "115992aa": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478453
+  },
+  "8ca971ee": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478153
+  },
+  "593c72d2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498155
+  },
+  "af02b613": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479157
+  },
+  "62206416": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "4e5c1021": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493347
+  },
+  "d391351e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503761
+  },
+  "8893ed37": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477382
+  },
+  "86536920": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500552
+  },
+  "0efdf374": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484393
+  },
+  "74533951": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495229
+  },
+  "ce681f48": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497420
+  },
+  "f352784f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473126
+  },
+  "653afeb3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474125
+  },
+  "2573d22b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490832
+  },
+  "11c0135b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484188
+  },
+  "0a17accf": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493179
+  },
+  "17e3bf37": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480153
+  },
+  "3b9c98bf": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475375
+  },
+  "0f2d4080": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474555
+  },
+  "7f6773d4": {
+   "lat": 1380,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373499415
+  },
+  "1b46935d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485195
+  },
+  "cd2303b9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496565
+  },
+  "efa09e22": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502282
+  },
+  "6b23abb0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486309
+  },
+  "1d90dfc3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501694
+  },
+  "5286dc35": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494285
+  },
+  "3b44886c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503297
+  },
+  "d04fd78c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476145
+  },
+  "73992cb1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484181
+  },
+  "e79f8049": {
+   "lat": 1095,
+   "health": "GOOD",
+   "down": 0.5671043807463494,
+   "up": 0.5971389521640091,
+   "at": 1792373502344
+  },
+  "21be3d8a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484252
+  },
+  "09d6b2e6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477159
+  },
+  "1d61655d": {
+   "lat": 923,
+   "health": "GOOD",
+   "down": 0.657414420062696,
+   "up": 0.7457866287339973,
+   "at": 1792373505972
+  },
+  "a83ebb3f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502376
+  },
+  "8e22ec1b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479155
+  },
+  "043a8ffb": {
+   "lat": 1441,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373482626
+  },
+  "836a5b9b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480478
+  },
+  "88f0e139": {
+   "lat": 976,
+   "health": "GOOD",
+   "down": 0.5363560102301791,
+   "up": 0.5175597235932874,
+   "at": 1792373481719
+  },
+  "b276cd5a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485198
+  },
+  "df9f889f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474132
+  },
+  "1b2420f1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479153
+  },
+  "cad9f2eb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477155
+  },
+  "95224e7f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498071
+  },
+  "bc977686": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484188
+  },
+  "0499e9ae": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495412
+  },
+  "ee201b7d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482658
+  },
+  "2bb4c15a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480168
+  },
+  "4040b21e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478149
+  },
+  "74a0c476": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500592
+  },
+  "c13c63cc": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496669
+  },
+  "a2751ea9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473124
+  },
+  "3e84a7a8": {
+   "lat": 2143,
+   "health": "GOOD",
+   "down": 0.5266579608237068,
+   "up": 0.6263894862604541,
+   "at": 1792373495848
+  },
+  "07b51ec0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479473
+  },
+  "f2421ddb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476137
+  },
+  "72b3d003": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493349
+  },
+  "c3d1d13d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476461
+  },
+  "640c28ae": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502899
+  },
+  "a910a77e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482236
+  },
+  "5df78113": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "4171f7a4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489948
+  },
+  "43838f3f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484301
+  },
+  "985a4eba": {
+   "lat": 730,
+   "health": "GOOD",
+   "down": null,
+   "up": 0.2357410071942446,
+   "at": 1792373508128
+  },
+  "ef744bd3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503152
+  },
+  "61190e36": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491452
+  },
+  "00648412": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484668
+  },
+  "8917e988": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502375
+  },
+  "e240ec1e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490798
+  },
+  "559ceab7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483173
+  },
+  "379be399": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494352
+  },
+  "a3382413": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492596
+  },
+  "eebbd07f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485964
+  },
+  "50a7e2fc": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484485
+  },
+  "96255ff0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474130
+  },
+  "b44e7ce1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481652
+  },
+  "4ab04db2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475145
+  },
+  "a22acf80": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495686
+  },
+  "e267a085": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498178
+  },
+  "729b050a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482165
+  },
+  "1a95b1fe": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475132
+  },
+  "17e16707": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481467
+  },
+  "6ec063bc": {
+   "lat": 3341,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373503271
+  },
+  "51534961": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481160
+  },
+  "7c6ee9e0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483685
+  },
+  "b0c7dafa": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473122
+  },
+  "47efa667": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495442
+  },
+  "1dc5a7dc": {
+   "lat": 1451,
+   "health": "GOOD",
+   "down": 0.18664578141687432,
+   "up": 0.3556906377204885,
+   "at": 1792373502277
+  },
+  "c949bb43": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476377
+  },
+  "4cd63f39": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480443
+  },
+  "d3c6162e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496551
+  },
+  "add93401": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488212
+  },
+  "42257055": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501161
+  },
+  "4816ced3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493627
+  },
+  "df70af93": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503284
+  },
+  "f52482d3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475144
+  },
+  "1a9c7414": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503006
+  },
+  "79a85611": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484192
+  },
+  "78b7aa26": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483185
+  },
+  "bc516c1a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480277
+  },
+  "3ebd9beb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485728
+  },
+  "62512873": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483879
+  },
+  "44f7629f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481169
+  },
+  "910484df": {
+   "lat": 588,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373495893
+  },
+  "b8f77d17": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479160
+  },
+  "b9a1f3af": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482168
+  },
+  "6202e918": {
+   "lat": 329,
+   "health": "GOOD",
+   "down": 0.1985939393939394,
+   "up": 0.19866919287608945,
+   "at": 1792373490341
+  },
+  "b0b53e28": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484689
+  },
+  "c4bc0bb7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373511028
+  },
+  "6935142c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478151
+  },
+  "42c29bbe": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479269
+  },
+  "e06a5734": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496458
+  },
+  "36d3b85f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488215
+  },
+  "0bd2fb74": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500180
+  },
+  "04c1519d": {
+   "lat": 1522,
+   "health": "GOOD",
+   "down": null,
+   "up": null,
+   "at": 1792373500404
+  },
+  "a69a0370": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490762
+  },
+  "f993c274": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498130
+  },
+  "1b0caf5e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500476
+  },
+  "8c9268c6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477137
+  },
+  "38b81791": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473124
+  },
+  "a410fe19": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474145
+  },
+  "6568e2e0": {
+   "lat": 805,
+   "health": "GOOD",
+   "down": 1.3009627791563274,
+   "up": 1.4852351274787536,
+   "at": 1792373506384
+  },
+  "42150f01": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494544
+  },
+  "11ba2d08": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476150
+  },
+  "fb7d45c2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475144
+  },
+  "a6f527e5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473126
+  },
+  "229216fa": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478156
+  },
+  "c594fbe5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493366
+  },
+  "0a6dc0c0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476149
+  },
+  "d9b74bde": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483480
+  },
+  "2bd1d709": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486379
+  },
+  "622a8bbf": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475147
+  },
+  "c0b419a3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490926
+  },
+  "b4681259": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478153
+  },
+  "16efc435": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502011
+  },
+  "66aec5ad": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476143
+  },
+  "3d082376": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483664
+  },
+  "01e91489": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479440
+  },
+  "d43cc0d0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474142
+  },
+  "40935997": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474126
+  },
+  "8dd79497": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473123
+  },
+  "e1294ec7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482164
+  },
+  "8f1a5d6a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492398
+  },
+  "0d012c0b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496474
+  },
+  "2f971ff7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502109
+  },
+  "f31228bf": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495228
+  },
+  "9e366b52": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496996
+  },
+  "d5346826": {
+   "lat": 3076,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373505810
+  },
+  "a00f9e07": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498911
+  },
+  "99763f28": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489889
+  },
+  "97c5ff19": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497074
+  },
+  "08d02028": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486853
+  },
+  "4b973adb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486206
+  },
+  "76246360": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496615
+  },
+  "f386049b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476141
+  },
+  "945ffde3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498647
+  },
+  "02bc6270": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492623
+  },
+  "6c10d5fa": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496283
+  },
+  "a9024a0a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483662
+  },
+  "cbcb9993": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488352
+  },
+  "71c4ae09": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500448
+  },
+  "8e174811": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373507236
+  },
+  "2134272d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497274
+  },
+  "881ca0c9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499589
+  },
+  "a9d2dbf9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497643
+  },
+  "17f5c53c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496689
+  },
+  "7988efd8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476150
+  },
+  "903b378e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474139
+  },
+  "7da10390": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478142
+  },
+  "0e214524": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490830
+  },
+  "62801ef5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478142
+  },
+  "45483f54": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489186
+  },
+  "0794d08a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476151
+  },
+  "b1cd7f80": {
+   "lat": 1158,
+   "health": "GOOD",
+   "down": 0.46417706949977866,
+   "up": 0.44964665523156094,
+   "at": 1792373479413
+  },
+  "8a487f83": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373505015
+  },
+  "9a742dbb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487480
+  },
+  "316cff6b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473370
+  },
+  "8093f8c6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490387
+  },
+  "7a78ad09": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484688
+  },
+  "3ccc8c84": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494368
+  },
+  "e11084d4": {
+   "lat": 1117,
+   "health": "GOOD",
+   "down": 0.5655749730312837,
+   "up": 0.6456748768472905,
+   "at": 1792373508261
+  },
+  "c5a79f35": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503120
+  },
+  "67b4ffbf": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486455
+  },
+  "f2a4e48a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479157
+  },
+  "890a7309": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500001
+  },
+  "c43d1f66": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496917
+  },
+  "2d2e63a6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479307
+  },
+  "82bd9ab4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480164
+  },
+  "a225e5a3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489403
+  },
+  "366319b0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474130
+  },
+  "e17e6882": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487209
+  },
+  "d54df847": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486356
+  },
+  "b794b6a3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486208
+  },
+  "34ceecd9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503533
+  },
+  "387be60e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478468
+  },
+  "f3bcfb8d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477136
+  },
+  "e7a8bab0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373507955
+  },
+  "39b14489": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475128
+  },
+  "252cc86c": {
+   "lat": 579,
+   "health": "GOOD",
+   "down": 0.6389859841560024,
+   "up": 1.269462469733656,
+   "at": 1792373498582
+  },
+  "35ed6c19": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476145
+  },
+  "b3c955e4": {
+   "lat": 1126,
+   "health": "GOOD",
+   "down": 0.4929835448989187,
+   "up": 0.6393756097560975,
+   "at": 1792373506015
+  },
+  "2ec8678e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373509502
+  },
+  "4c5bc15a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "d95101bf": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493315
+  },
+  "1f2686ed": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496947
+  },
+  "eb2081ac": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479164
+  },
+  "012016c5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503510
+  },
+  "f2ae0479": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495287
+  },
+  "acc93540": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483243
+  },
+  "f1482856": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501683
+  },
+  "adc42cd4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477134
+  },
+  "753568d7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493345
+  },
+  "c0183bf8": {
+   "lat": 574,
+   "health": "GOOD",
+   "down": 1.0787818930041153,
+   "up": 1.3041990049751242,
+   "at": 1792373501372
+  },
+  "3040db42": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480312
+  },
+  "a2fc813a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477133
+  },
+  "8906ee6d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499989
+  },
+  "bb49d3ef": {
+   "lat": 1119,
+   "health": "GOOD",
+   "down": 0.552463645943098,
+   "up": 0.6256420047732698,
+   "at": 1792373499175
+  },
+  "2b75acaf": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497464
+  },
+  "d0987b87": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484177
+  },
+  "cfa98cf5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499672
+  },
+  "0e5eeae9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492577
+  },
+  "a2853769": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476130
+  },
+  "d7e4212f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476146
+  },
+  "98a0715b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484387
+  },
+  "d802c1e6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486894
+  },
+  "24426281": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480223
+  },
+  "9b1063d4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482178
+  },
+  "58dc4d36": {
+   "lat": 3441,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373481085
+  },
+  "15d7fc89": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484251
+  },
+  "9f28fcaf": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479162
+  },
+  "e6feb97e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482289
+  },
+  "c68ed7ac": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492172
+  },
+  "69e9edca": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492191
+  },
+  "a4f9db3c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474145
+  },
+  "603b6e84": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500621
+  },
+  "95027f18": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503737
+  },
+  "9f34af56": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480255
+  },
+  "370c8cf8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488418
+  },
+  "d1fbfc3a": {
+   "lat": 1347,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373491460
+  },
+  "374135d5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475148
+  },
+  "6f770d4d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495610
+  },
+  "9159ea51": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488181
+  },
+  "e375f295": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477137
+  },
+  "480224e1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504292
+  },
+  "a234b89e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497148
+  },
+  "1b022388": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494437
+  },
+  "747c1fc9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481282
+  },
+  "a19f7251": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486207
+  },
+  "d644e21e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492859
+  },
+  "a0731f3f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498895
+  },
+  "3ca7645d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483742
+  },
+  "fc19fea0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484191
+  },
+  "993b8eb9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473552
+  },
+  "614753a8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477151
+  },
+  "6f4c1b69": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488791
+  },
+  "eb0cd8c2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488280
+  },
+  "61dcf68a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482180
+  },
+  "a7ae3a9d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499785
+  },
+  "8c4cd1f2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500476
+  },
+  "827f9feb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480593
+  },
+  "c682409c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480159
+  },
+  "5689d885": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480409
+  },
+  "845a933d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492866
+  },
+  "a4ab1d7c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489803
+  },
+  "4956ddd1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496763
+  },
+  "e31fb4ca": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483182
+  },
+  "ae28c072": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487210
+  },
+  "95646174": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474141
+  },
+  "bddf953e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482181
+  },
+  "552b0255": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485352
+  },
+  "0e879a0f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484180
+  },
+  "e5feea29": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485392
+  },
+  "dd83d7ae": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497287
+  },
+  "13f30410": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477144
+  },
+  "45d92df0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373505783
+  },
+  "cfaa82b7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473138
+  },
+  "61d4f173": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476131
+  },
+  "e44f586d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477153
+  },
+  "38f7f01c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473126
+  },
+  "06f4fe87": {
+   "lat": 1355,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373490341
+  },
+  "156d0693": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488511
+  },
+  "ebdbeafa": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485306
+  },
+  "3a2289be": {
+   "lat": 1039,
+   "health": "GOOD",
+   "down": 0.5055814850530377,
+   "up": 0.6619797979797979,
+   "at": 1792373492436
+  },
+  "a9ce4af1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476134
+  },
+  "da825bf4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473121
+  },
+  "0146403f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499116
+  },
+  "e8f9d143": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481157
+  },
+  "ef64793d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480646
+  },
+  "f9eeb99a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495757
+  },
+  "eb26daa5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501095
+  },
+  "38f4b2b1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495593
+  },
+  "01fe5a06": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484345
+  },
+  "9f38d10b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478165
+  },
+  "37e4cefb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480166
+  },
+  "2493e978": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473123
+  },
+  "0bd4388b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473135
+  },
+  "a4bd1151": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479151
+  },
+  "5d0e6b56": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373510592
+  },
+  "c5027576": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504125
+  },
+  "fd63286f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485845
+  },
+  "10155eec": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476147
+  },
+  "1a27b916": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373472366
+  },
+  "1acbc6c2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504384
+  },
+  "e13633bd": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479162
+  },
+  "f62942fb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490213
+  },
+  "aee27bb7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476149
+  },
+  "765d6504": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479148
+  },
+  "487ba14f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493403
+  },
+  "d87741bb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486267
+  },
+  "cb3e6556": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500638
+  },
+  "9ddfd70a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477465
+  },
+  "1faecb70": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489493
+  },
+  "6590a639": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476142
+  },
+  "eb0bbedc": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502170
+  },
+  "4e44ea04": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485695
+  },
+  "5f93b3d8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494224
+  },
+  "d511d67d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497869
+  },
+  "bd13128c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482168
+  },
+  "e1772ab7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487361
+  },
+  "6b5fc996": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483458
+  },
+  "930980d9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487740
+  },
+  "d6bfedfa": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497899
+  },
+  "cf6de6f4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496864
+  },
+  "4fcb8bc8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481170
+  },
+  "837ce471": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486168
+  },
+  "ed3058d5": {
+   "lat": 1025,
+   "health": "GOOD",
+   "down": null,
+   "up": null,
+   "at": 1792373495617
+  },
+  "86e61882": {
+   "lat": 1756,
+   "health": "GOOD",
+   "down": 0.36999858856739587,
+   "up": 0.46479432624113476,
+   "at": 1792373508417
+  },
+  "61748ee0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491234
+  },
+  "f43dba3e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484725
+  },
+  "f0f6af4e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "b1beb68b": {
+   "lat": 1281,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373492819
+  },
+  "18c09e6f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494607
+  },
+  "39f7aca8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495355
+  },
+  "cb971e87": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501527
+  },
+  "210f1f28": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501735
+  },
+  "da0d6214": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477151
+  },
+  "645402a2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496599
+  },
+  "c97be686": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488365
+  },
+  "6ab1af1b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497693
+  },
+  "d55ea340": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485200
+  },
+  "ab6b0497": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483295
+  },
+  "08a5e129": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498291
+  },
+  "07b7078d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485188
+  },
+  "3b9c38c4": {
+   "lat": 942,
+   "health": "GOOD",
+   "down": 0.5701881457313758,
+   "up": 0.6898526315789474,
+   "at": 1792373492814
+  },
+  "5a0a496c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478146
+  },
+  "2a86c1b6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478154
+  },
+  "43458e24": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497561
+  },
+  "31b41e8c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474140
+  },
+  "fecff630": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475135
+  },
+  "c45396cf": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498279
+  },
+  "6795ff0b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501414
+  },
+  "eb91f59d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499783
+  },
+  "43b715b9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494818
+  },
+  "dc2750f6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481316
+  },
+  "ef475afe": {
+   "lat": 953,
+   "health": "GOOD",
+   "down": 0.6529115815691158,
+   "up": 0.681778933680104,
+   "at": 1792373492099
+  },
+  "bc5edd20": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483327
+  },
+  "4e6e40c6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489886
+  },
+  "30421b69": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480156
+  },
+  "d1f4bad9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486476
+  },
+  "182577af": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494131
+  },
+  "bbb8ef80": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503390
+  },
+  "c274ca38": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481446
+  },
+  "f22ab204": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483387
+  },
+  "a020f9d3": {
+   "lat": 477,
+   "health": "GOOD",
+   "down": 1.3009627791563274,
+   "up": 1.4604122562674096,
+   "at": 1792373505935
+  },
+  "ccc6b718": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495386
+  },
+  "fd34fb0c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486195
+  },
+  "21e8f0c5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493283
+  },
+  "6210a1ad": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478158
+  },
+  "8fd11bac": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485470
+  },
+  "f57ad537": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477565
+  },
+  "0156f970": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474129
+  },
+  "f78d39e0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485362
+  },
+  "5cfd4644": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474373
+  },
+  "8d01ca14": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498828
+  },
+  "14250701": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502932
+  },
+  "36a15ee0": {
+   "lat": 583,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373504502
+  },
+  "8d2fcab2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477145
+  },
+  "c40b8a13": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501077
+  },
+  "bb6eda79": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473127
+  },
+  "61fb9671": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487413
+  },
+  "ed13ebb2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494225
+  },
+  "fec64ef1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503692
+  },
+  "1eb08c34": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487174
+  },
+  "cf8dff98": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481157
+  },
+  "a570ff89": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492739
+  },
+  "67c31042": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496357
+  },
+  "e542e78f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493342
+  },
+  "b4797430": {
+   "lat": 989,
+   "health": "GOOD",
+   "down": 0.6189940968122786,
+   "up": 0.6704450127877238,
+   "at": 1792373494346
+  },
+  "8851b147": {
+   "lat": 944,
+   "health": "GOOD",
+   "down": 0.41104508036064286,
+   "up": 0.7094560216508795,
+   "at": 1792373501895
+  },
+  "aea9a3dd": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474136
+  },
+  "c900aec7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498447
+  },
+  "529213a7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480589
+  },
+  "1e3628a2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477146
+  },
+  "a4172e35": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475146
+  },
+  "c6db3b3a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502688
+  },
+  "3b07171c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490213
+  },
+  "8edf54ff": {
+   "lat": 930,
+   "health": "GOOD",
+   "down": 0.6385968331303289,
+   "up": 0.7554582132564842,
+   "at": 1792373505061
+  },
+  "64d0be45": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491344
+  },
+  "a5a44e0e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481599
+  },
+  "b325a813": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373505104
+  },
+  "3c558db3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373506095
+  },
+  "d71fd8f7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483244
+  },
+  "eb543d11": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478163
+  },
+  "70243c57": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497418
+  },
+  "dd7e1cd1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485201
+  },
+  "0283114d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480165
+  },
+  "ef6fc1e3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502497
+  },
+  "77e95c8c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492211
+  },
+  "49191af6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482268
+  },
+  "b58b98b3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498696
+  },
+  "e8c06eca": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500769
+  },
+  "16b16a8f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486688
+  },
+  "f17c4c07": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485679
+  },
+  "cce356ec": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481166
+  },
+  "4e15290a": {
+   "lat": 967,
+   "health": "GOOD",
+   "down": 0.5643573735199139,
+   "up": 0.7009197860962567,
+   "at": 1792373504801
+  },
+  "8c697bc7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485198
+  },
+  "00bff395": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476160
+  },
+  "f9e8957a": {
+   "lat": 1349,
+   "health": "GOOD",
+   "down": null,
+   "up": 0.11355598873727528,
+   "at": 1792373509459
+  },
+  "b4308654": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475555
+  },
+  "ed67588a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484884
+  },
+  "3f1c83d0": {
+   "lat": 1089,
+   "health": "GOOD",
+   "down": 0.5095121477162293,
+   "up": 0.6033233601841197,
+   "at": 1792373510104
+  },
+  "bbae5805": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483184
+  },
+  "6d6eb298": {
+   "lat": 843,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373495145
+  },
+  "b24ecbd0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501501
+  },
+  "73484f71": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478147
+  },
+  "ab3c9bf8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483175
+  },
+  "7db782e5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500758
+  },
+  "009ee4a2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477161
+  },
+  "2812ccaf": {
+   "lat": 1134,
+   "health": "GOOD",
+   "down": 0.5521727224855186,
+   "up": 0.6012477064220183,
+   "at": 1792373503041
+  },
+  "53f13ed5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495297
+  },
+  "048a6de6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476146
+  },
+  "9a8b3b9d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483183
+  },
+  "76ae8b87": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501926
+  },
+  "bb9bb45f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491291
+  },
+  "9d9ec921": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496807
+  },
+  "67282667": {
+   "lat": 282,
+   "health": "GOOD",
+   "down": 1.8825421903052062,
+   "up": 1.8791684587813617,
+   "at": 1792373479322
+  },
+  "2f53fdfb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478262
+  },
+  "6860fab7": {
+   "lat": 1119,
+   "health": "GOOD",
+   "down": 0.5583471778487753,
+   "up": 0.5910800450958286,
+   "at": 1792373491044
+  },
+  "e9f85ec8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478573
+  },
+  "0fc5bfed": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489403
+  },
+  "45bf25ad": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490280
+  },
+  "b6f29f31": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504428
+  },
+  "27232bc8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479404
+  },
+  "7187135e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489385
+  },
+  "d480d4c6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502504
+  },
+  "82dfdef4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496268
+  },
+  "2b573bf0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493623
+  },
+  "d94f05cb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491289
+  },
+  "58d7abd8": {
+   "lat": 1026,
+   "health": "GOOD",
+   "down": 0.40144563552833074,
+   "up": 0.13543993800051668,
+   "at": 1792373486394
+  },
+  "a53e3437": {
+   "lat": 984,
+   "health": "GOOD",
+   "down": 0.6132023391812865,
+   "up": 0.696265604249668,
+   "at": 1792373498033
+  },
+  "4552fda0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484356
+  },
+  "5619e63d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479112
+  },
+  "745c7788": {
+   "lat": 1005,
+   "health": "GOOD",
+   "down": 1.1742172452407615,
+   "up": 1.7246315789473685,
+   "at": 1792373499526
+  },
+  "68885707": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487347
+  },
+  "2e01060a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487289
+  },
+  "3b61ec58": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475143
+  },
+  "eeccbc9c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484747
+  },
+  "04ba4639": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504337
+  },
+  "91bfb2fe": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504236
+  },
+  "08687128": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500922
+  },
+  "f897e0b1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502504
+  },
+  "0c186a27": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480478
+  },
+  "bee34272": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504292
+  },
+  "c8defca8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491684
+  },
+  "ffdfebf1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475130
+  },
+  "7661532d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475147
+  },
+  "86f41142": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485279
+  },
+  "5a11ed10": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476559
+  },
+  "52e5e0b4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494293
+  },
+  "46af9da9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477137
+  },
+  "51333bfe": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491887
+  },
+  "98fd983a": {
+   "lat": 2209,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373488794
+  },
+  "4b7ce148": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486248
+  },
+  "7d7dc278": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498657
+  },
+  "7eba77eb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494456
+  },
+  "8f8cb476": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474125
+  },
+  "defddf9b": {
+   "lat": 988,
+   "health": "GOOD",
+   "down": 0.603670696603339,
+   "up": 0.6925865257595772,
+   "at": 1792373498257
+  },
+  "a317e557": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498989
+  },
+  "2a81cb36": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474140
+  },
+  "ca5d65db": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494408
+  },
+  "3d981f16": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484463
+  },
+  "f0135058": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474248
+  },
+  "27241279": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484669
+  },
+  "445bdadd": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503123
+  },
+  "98232914": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478157
+  },
+  "02e949b1": {
+   "lat": 1880,
+   "health": "GOOD",
+   "down": null,
+   "up": null,
+   "at": 1792373505802
+  },
+  "ad550216": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492520
+  },
+  "902ff3f8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373483327
+  },
+  "6ada4bc7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474144
+  },
+  "d12408c6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496896
+  },
+  "f0ec9923": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500354
+  },
+  "d6c6b7c2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499331
+  },
+  "70fb2dce": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488791
+  },
+  "df19ea58": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487383
+  },
+  "5a6b66b3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479472
+  },
+  "bc706dde": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486284
+  },
+  "31319e89": {
+   "lat": 1287,
+   "health": "GOOD",
+   "down": 0.7013886287625418,
+   "up": 0.6916728232189974,
+   "at": 1792373496013
+  },
+  "ed7acc88": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485890
+  },
+  "9b5660af": {
+   "lat": 2018,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373504875
+  },
+  "d2d5fce2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501619
+  },
+  "10dcbb8c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498113
+  },
+  "28fbff07": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476144
+  },
+  "6687af05": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482453
+  },
+  "bdca835c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486678
+  },
+  "6013a273": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480156
+  },
+  "299de7af": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495411
+  },
+  "33dd904f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481173
+  },
+  "56b9389e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502277
+  },
+  "0ce6faf0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479151
+  },
+  "2d28c301": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "18929e30": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493627
+  },
+  "cf74d151": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474139
+  },
+  "5bce92ef": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495524
+  },
+  "7e9d86b4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484191
+  },
+  "3ae8ff19": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482093
+  },
+  "c05949a3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487684
+  },
+  "f327d604": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504517
+  },
+  "f83cec19": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373472233
+  },
+  "40086e1f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501891
+  },
+  "24b2fa72": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495287
+  },
+  "f601cea6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496510
+  },
+  "0042217b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502368
+  },
+  "713170a8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502701
+  },
+  "318cac30": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494288
+  },
+  "ae026899": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501098
+  },
+  "f974b09c": {
+   "lat": 1569,
+   "health": "GOOD",
+   "down": null,
+   "up": null,
+   "at": 1792373490992
+  },
+  "0de216df": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475143
+  },
+  "a8b3fb37": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491580
+  },
+  "1a4a3509": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493420
+  },
+  "b65fefcd": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494348
+  },
+  "e3c41944": {
+   "lat": 759,
+   "health": "GOOD",
+   "down": 0.14646961866182429,
+   "up": null,
+   "at": 1792373501496
+  },
+  "0680904f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485263
+  },
+  "7286d640": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475146
+  },
+  "72f68653": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501272
+  },
+  "9ed1883a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499831
+  },
+  "1a3ca75f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480165
+  },
+  "528e0b8c": {
+   "lat": 889,
+   "health": "GOOD",
+   "down": 0.5082772661173048,
+   "up": 0.6271387559808612,
+   "at": 1792373477153
+  },
+  "87cb305a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477755
+  },
+  "14dd68ac": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482170
+  },
+  "78ead9a6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475250
+  },
+  "c93ecb00": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480154
+  },
+  "eb156826": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474143
+  },
+  "90893ced": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480464
+  },
+  "35542987": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373510035
+  },
+  "5c6d7b88": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495684
+  },
+  "6dde390b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501494
+  },
+  "e98546e9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474142
+  },
+  "dadd008b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489882
+  },
+  "356816da": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489392
+  },
+  "c8687e56": {
+   "lat": 3753,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373490833
+  },
+  "48a99cbb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503085
+  },
+  "c28e1759": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473135
+  },
+  "942cda85": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373488644
+  },
+  "58792641": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499297
+  },
+  "ce99f7a4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473123
+  },
+  "3fc31be7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502873
+  },
+  "d266cc80": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489430
+  },
+  "e0de9157": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500418
+  },
+  "8cec32ec": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502137
+  },
+  "ff114439": {
+   "lat": 3664,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373511104
+  },
+  "550ba2ad": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498683
+  },
+  "a0bc0e23": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486203
+  },
+  "a1889263": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499649
+  },
+  "47373068": {
+   "lat": 1132,
+   "health": "GOOD",
+   "down": 0.5545087255420412,
+   "up": 0.5884264870931537,
+   "at": 1792373492209
+  },
+  "fdabe150": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490441
+  },
+  "e810dcd9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482384
+  },
+  "14a3b124": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500730
+  },
+  "f5a30fe4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479161
+  },
+  "5f0d6579": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502216
+  },
+  "3260e332": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500889
+  },
+  "3df4b93b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498781
+  },
+  "bcb337b1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474130
+  },
+  "9e7b235b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496685
+  },
+  "d6244e33": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482181
+  },
+  "9819b14c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485005
+  },
+  "e713880a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473128
+  },
+  "f14db9d7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480162
+  },
+  "7a277250": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484724
+  },
+  "134e40a7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479163
+  },
+  "7697966a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487459
+  },
+  "30d7162b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491170
+  },
+  "250e2719": {
+   "lat": 902,
+   "health": "GOOD",
+   "down": 0.65536,
+   "up": 0.7322458100558659,
+   "at": 1792373501816
+  },
+  "fab5db81": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479581
+  },
+  "58729cfc": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499784
+  },
+  "972973ae": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502624
+  },
+  "249f10a8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476252
+  },
+  "ea3f54b9": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485241
+  },
+  "b4ccb0af": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493600
+  },
+  "032ac3be": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494607
+  },
+  "e9aba474": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504537
+  },
+  "5b39bd6f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490952
+  },
+  "058a39f7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503048
+  },
+  "bf415669": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501643
+  },
+  "d57a7b43": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495890
+  },
+  "330414ec": {
+   "lat": 1130,
+   "health": "GOOD",
+   "down": 0.5604361304115446,
+   "up": 0.6082227378190255,
+   "at": 1792373504359
+  },
+  "9c3a137b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477149
+  },
+  "7496647d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491435
+  },
+  "92948e14": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496393
+  },
+  "98c820a3": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482320
+  },
+  "c9631a34": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499259
+  },
+  "55e30faa": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373510392
+  },
+  "02f8f1af": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473123
+  },
+  "d84ec34c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "b35c0e3c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474134
+  },
+  "4e07cd8c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501496
+  },
+  "4eb116dc": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477133
+  },
+  "dbb4d415": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486756
+  },
+  "13afdbba": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473123
+  },
+  "87b77f45": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481170
+  },
+  "1cd00006": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496416
+  },
+  "9b8eb0ff": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475132
+  },
+  "ca11ba07": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473135
+  },
+  "a4d99434": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478153
+  },
+  "1e7576a4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493221
+  },
+  "30feea5a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476132
+  },
+  "3182f387": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496598
+  },
+  "99dd69de": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373505078
+  },
+  "3f0f9f3a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475146
+  },
+  "39ed1af5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489420
+  },
+  "75c0360f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486583
+  },
+  "d6d97961": {
+   "lat": 3704,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373490414
+  },
+  "7fe8dc25": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491528
+  },
+  "8fbb1b05": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476143
+  },
+  "7b88b6af": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373484276
+  },
+  "9480d423": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478149
+  },
+  "93c5b769": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502013
+  },
+  "3b89d513": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476148
+  },
+  "a7ac4d83": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504977
+  },
+  "41e37351": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474130
+  },
+  "948f5e7a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492211
+  },
+  "c0f74fe8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474131
+  },
+  "f482eceb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482489
+  },
+  "43ba24be": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495455
+  },
+  "0fc1f76d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485188
+  },
+  "5a54d815": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498645
+  },
+  "3a1c4e4f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486936
+  },
+  "23f7323e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502276
+  },
+  "6f325f69": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474143
+  },
+  "8f573b26": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497677
+  },
+  "21ecaeac": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493436
+  },
+  "c86f73df": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "06d3107f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481315
+  },
+  "1f6e7de7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474143
+  },
+  "7bfcf4c0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502082
+  },
+  "0cfca4dd": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497360
+  },
+  "15c718ae": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498676
+  },
+  "b54b1c1a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496640
+  },
+  "9a006012": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486456
+  },
+  "c539921c": {
+   "lat": 392,
+   "health": "GOOD",
+   "down": 1.337469387755102,
+   "up": 1.6487044025157231,
+   "at": 1792373495276
+  },
+  "9a816668": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477143
+  },
+  "c25c1359": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373503335
+  },
+  "02557305": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476134
+  },
+  "71850ea8": {
+   "lat": 949,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373503013
+  },
+  "a48bea9c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479165
+  },
+  "ec7b83ba": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496414
+  },
+  "3b592e41": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480121
+  },
+  "1563d3d6": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474142
+  },
+  "aec9fbd0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501167
+  },
+  "4bf806fb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485451
+  },
+  "8a8caa8f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487211
+  },
+  "78cdc7e1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502529
+  },
+  "dfe21a47": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497396
+  },
+  "83aa956a": {
+   "lat": 793,
+   "health": "GOOD",
+   "down": 0.8295696202531646,
+   "up": 0.2782845010615711,
+   "at": 1792373509462
+  },
+  "9eefd9dd": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373479152
+  },
+  "56ece63e": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476130
+  },
+  "3654ec02": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473135
+  },
+  "b246200b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478145
+  },
+  "b72393b4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473123
+  },
+  "e6a0c8c0": {
+   "lat": 3648,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373484123
+  },
+  "5a37af5b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476149
+  },
+  "920db8ed": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373490279
+  },
+  "95e3da83": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497174
+  },
+  "e4285ffb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373492174
+  },
+  "530cf865": {
+   "lat": 1085,
+   "health": "GOOD",
+   "down": 0.5135044074436828,
+   "up": null,
+   "at": 1792373507452
+  },
+  "c01e3224": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477150
+  },
+  "b0496c13": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493050
+  },
+  "0057b3a0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496451
+  },
+  "fbc5484d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494633
+  },
+  "9ce82c0d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478153
+  },
+  "39db64cc": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482177
+  },
+  "f15bb590": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481172
+  },
+  "dd00dfaa": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496279
+  },
+  "450396de": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475145
+  },
+  "5a0be30f": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487198
+  },
+  "736c6de0": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494407
+  },
+  "8e4be183": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475128
+  },
+  "c8029a69": {
+   "lat": 591,
+   "health": "GOOD",
+   "down": 1.0024627151051624,
+   "up": 1.1397565217391303,
+   "at": 1792373506993
+  },
+  "37f54e53": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498423
+  },
+  "76d8a230": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373489794
+  },
+  "704f6370": {
+   "lat": 2103,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373514317
+  },
+  "cea87beb": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478401
+  },
+  "ad91e7a5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481261
+  },
+  "fcc60f61": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474139
+  },
+  "a5eac642": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491097
+  },
+  "d2ce781a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475128
+  },
+  "97689fd8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504764
+  },
+  "bb028502": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477152
+  },
+  "9c07870a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373480162
+  },
+  "ad8a8e9a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373507391
+  },
+  "6cba8f07": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485725
+  },
+  "07ea96cd": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373504071
+  },
+  "6ac130f1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495458
+  },
+  "4e8c1204": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493402
+  },
+  "49343053": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373478163
+  },
+  "cb602626": {
+   "lat": 1587,
+   "health": "WEAK",
+   "down": null,
+   "up": null,
+   "at": 1792373488006
+  },
+  "7444ce79": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373485401
+  },
+  "b783034b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373499882
+  },
+  "318130d1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373501868
+  },
+  "83636b63": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373502528
+  },
+  "11103588": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475142
+  },
+  "a8918192": {
+   "lat": 920,
+   "health": "GOOD",
+   "down": 0.653725685785536,
+   "up": 0.7426175637393768,
+   "at": 1792373491162
+  },
+  "a56c99ff": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "114e1a55": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475142
+  },
+  "a485e985": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481599
+  },
+  "855b7284": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373481163
+  },
+  "691ffe9c": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373493536
+  },
+  "53cdacfe": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373482322
+  },
+  "89c6da2a": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476750
+  },
+  "17f7d470": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373496444
+  },
+  "b636c9d7": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473125
+  },
+  "04dc5d3a": {
+   "lat": 1101,
+   "health": "GOOD",
+   "down": 0.5661857451403888,
+   "up": 0.6096372093023256,
+   "at": 1792373504881
+  },
+  "3a6a5408": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373500636
+  },
+  "f4cca3ee": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373475134
+  },
+  "a8b40fab": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373486023
+  },
+  "05c0be9d": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373505127
+  },
+  "acf1b731": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373498522
+  },
+  "4a98e768": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476134
+  },
+  "1a5eb44b": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474138
+  },
+  "7785a2f8": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487274
+  },
+  "ce7b78b4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373474144
+  },
+  "d2951c37": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477150
+  },
+  "e2968361": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497604
+  },
+  "5804f906": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373477256
+  },
+  "00346467": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373473135
+  },
+  "43720ed5": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373476149
+  },
+  "0b66b561": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373494370
+  },
+  "ab851ed2": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373497516
+  },
+  "5dde00a1": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373491284
+  },
+  "872e53d4": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373495346
+  },
+  "65ae4089": {
+   "lat": -1,
+   "health": "DEAD",
+   "down": null,
+   "up": null,
+   "at": 1792373487211
+  }
+ },
+ "sourceSelection": {
+  "selected": [
+   "spys.me"
+  ],
+  "mandatory": [],
+  "savedAt": 1792373469220,
+  "savedBy": "anasibnaljannah@outlook.sa"
+ }
+}
