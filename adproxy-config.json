@@ -34,6 +34,40 @@
    "archivedAt": 0,
    "archiveLastCheckedAt": 0,
    "failReason": ""
+  },
+  {
+   "id": "0f5ec718",
+   "label": "",
+   "host": "82.21.153.14",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "f1704346",
+   "label": "",
+   "host": "51.15.20.32",
+   "port": 1088,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
   }
  ],
  "announcements": [],
@@ -44,7 +78,7 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792396123911,
+ "updatedAt": 1792396354416,
  "health": {
   "c5db9adb": {
    "lat": 341,
@@ -59,6 +93,20 @@
    "down": 1.005346116970278,
    "up": 1.9275294117647057,
    "at": 1792395985319
+  },
+  "f1704346": {
+   "lat": 306,
+   "health": "GOOD",
+   "down": null,
+   "up": 0.10959197324414716,
+   "at": 1792396351571
+  },
+  "0f5ec718": {
+   "lat": 314,
+   "health": "GOOD",
+   "down": 1.2648685162846804,
+   "up": 0.845625806451613,
+   "at": 1792396338311
   }
  },
  "sourceSelection": {
