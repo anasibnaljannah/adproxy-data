@@ -68,6 +68,23 @@
    "archivedAt": 0,
    "archiveLastCheckedAt": 0,
    "failReason": ""
+  },
+  {
+   "id": "e60eee5e",
+   "label": "",
+   "host": "51.15.20.32",
+   "port": 1088,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
   }
  ],
  "announcements": [],
@@ -78,7 +95,7 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792402781141,
+ "updatedAt": 1792402833336,
  "health": {
   "a0e3f8e4": {
    "lat": 360,
@@ -93,6 +110,13 @@
    "down": 0.9472231255645891,
    "up": 0.7576416184971099,
    "at": 1792402772963
+  },
+  "e60eee5e": {
+   "lat": 305,
+   "health": "GOOD",
+   "down": 1.8893261261261258,
+   "up": 0.8295696202531646,
+   "at": 1792402821908
   },
   "f8f225d6": {
    "lat": 372,
