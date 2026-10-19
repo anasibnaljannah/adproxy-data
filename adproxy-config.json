@@ -1,92 +1,6 @@
 {
  "schema": 2,
- "proxies": [
-  {
-   "id": "31319e89",
-   "label": "",
-   "host": "147.93.172.241",
-   "port": 5555,
-   "type": "SOCKS5",
-   "username": "",
-   "password": "",
-   "country": "SG",
-   "enabled": true,
-   "protected": false,
-   "status": "ARCHIVED_FAILED",
-   "archiveAttempts": 1,
-   "archivedAt": 1792374785731,
-   "archiveLastCheckedAt": 1792374785746,
-   "failReason": "WEAK"
-  },
-  {
-   "id": "a53e3437",
-   "label": "",
-   "host": "216.105.128.144",
-   "port": 4145,
-   "type": "SOCKS5",
-   "username": "",
-   "password": "",
-   "country": "US",
-   "enabled": true,
-   "protected": false,
-   "status": "ARCHIVED_FAILED",
-   "archiveAttempts": 1,
-   "archivedAt": 1792374785731,
-   "archiveLastCheckedAt": 1792374785746,
-   "failReason": "DEAD"
-  },
-  {
-   "id": "c0183bf8",
-   "label": "",
-   "host": "45.138.157.212",
-   "port": 1080,
-   "type": "SOCKS5",
-   "username": "",
-   "password": "",
-   "country": "SC",
-   "enabled": true,
-   "protected": false,
-   "status": "ARCHIVED_FAILED",
-   "archiveAttempts": 1,
-   "archivedAt": 1792374785731,
-   "archiveLastCheckedAt": 1792374785746,
-   "failReason": "DEAD"
-  },
-  {
-   "id": "86e61882",
-   "label": "",
-   "host": "103.81.70.71",
-   "port": 1080,
-   "type": "SOCKS5",
-   "username": "",
-   "password": "",
-   "country": "BD",
-   "enabled": true,
-   "protected": false,
-   "status": "ARCHIVED_FAILED",
-   "archiveAttempts": 1,
-   "archivedAt": 1792374785731,
-   "archiveLastCheckedAt": 1792374785746,
-   "failReason": "DEAD"
-  },
-  {
-   "id": "a020f9d3",
-   "label": "",
-   "host": "195.135.255.98",
-   "port": 1080,
-   "type": "SOCKS5",
-   "username": "",
-   "password": "",
-   "country": "LV",
-   "enabled": true,
-   "protected": false,
-   "status": "ARCHIVED_FAILED",
-   "archiveAttempts": 1,
-   "archivedAt": 1792374785731,
-   "archiveLastCheckedAt": 1792374785746,
-   "failReason": "DEAD"
-  }
- ],
+ "proxies": [],
  "announcements": [],
  "maintenance": false,
  "maintenanceMessage": "",
@@ -95,7 +9,7 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792384000836,
+ "updatedAt": 1792385570100,
  "health": {
   "99a680d6": {
    "lat": -1,
@@ -38168,5 +38082,7 @@
   "mandatory": [],
   "savedAt": 1792383999561,
   "savedBy": "anasibnaljannah@outlook.sa"
- }
+ },
+ "archiveEnabled": true,
+ "archiveSavedAt": 1792385568828
 }
