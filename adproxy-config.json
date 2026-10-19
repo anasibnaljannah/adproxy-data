@@ -9,7 +9,7 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792389857171,
+ "updatedAt": 1792390860446,
  "health": {
   "9a26b357": {
    "lat": -1,
@@ -113022,6 +113022,7 @@
    "hproxy.com",
    "litport.net",
    "proxio.io",
+   "proxmint.com",
    "proxylister.com",
    "proxynest.live",
    "proxywing.com",
@@ -113029,7 +113030,7 @@
    "telexy.net"
   ],
   "mandatory": [],
-  "savedAt": 1792383999561,
+  "savedAt": 1792390859116,
   "savedBy": "anasibnaljannah@outlook.sa"
  },
  "archiveEnabled": false,
