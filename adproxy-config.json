@@ -1,6 +1,41 @@
 {
  "schema": 2,
- "proxies": [],
+ "proxies": [
+  {
+   "id": "ef30c225",
+   "label": "",
+   "host": "134.209.29.120",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  },
+  {
+   "id": "e4b04e9c",
+   "label": "",
+   "host": "161.35.70.249",
+   "port": 1080,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  }
+ ],
  "announcements": [],
  "maintenance": false,
  "maintenanceMessage": "",
@@ -9,8 +44,23 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792399108526,
- "health": {},
+ "updatedAt": 1792399110112,
+ "health": {
+  "e4b04e9c": {
+   "lat": 381,
+   "health": "GOOD",
+   "down": 1.2066467203682394,
+   "up": 1.8396070175438597,
+   "at": 1792398588343
+  },
+  "ef30c225": {
+   "lat": 370,
+   "health": "GOOD",
+   "down": 1.0423220675944334,
+   "up": 1.9784452830188677,
+   "at": 1792398582781
+  }
+ },
  "sourceSelection": {
   "selected": [
    "advanced.name",
