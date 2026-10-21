@@ -1,92 +1,6 @@
 {
  "schema": 2,
- "proxies": [
-  {
-   "id": "5833f9bf",
-   "label": "",
-   "host": "192.111.135.18",
-   "port": 18301,
-   "type": "SOCKS5",
-   "username": "",
-   "password": "",
-   "country": "",
-   "enabled": true,
-   "protected": false,
-   "status": "ACTIVE",
-   "archiveAttempts": 0,
-   "archivedAt": 0,
-   "archiveLastCheckedAt": 0,
-   "failReason": ""
-  },
-  {
-   "id": "599d5cbf",
-   "label": "",
-   "host": "98.178.72.21",
-   "port": 10919,
-   "type": "SOCKS5",
-   "username": "",
-   "password": "",
-   "country": "",
-   "enabled": true,
-   "protected": false,
-   "status": "ACTIVE",
-   "archiveAttempts": 0,
-   "archivedAt": 0,
-   "archiveLastCheckedAt": 0,
-   "failReason": ""
-  },
-  {
-   "id": "01b94599",
-   "label": "",
-   "host": "174.64.199.79",
-   "port": 4145,
-   "type": "SOCKS5",
-   "username": "",
-   "password": "",
-   "country": "",
-   "enabled": true,
-   "protected": false,
-   "status": "ACTIVE",
-   "archiveAttempts": 0,
-   "archivedAt": 0,
-   "archiveLastCheckedAt": 0,
-   "failReason": ""
-  },
-  {
-   "id": "ab2d3620",
-   "label": "",
-   "host": "67.201.35.145",
-   "port": 4145,
-   "type": "SOCKS5",
-   "username": "",
-   "password": "",
-   "country": "",
-   "enabled": true,
-   "protected": false,
-   "status": "ACTIVE",
-   "archiveAttempts": 0,
-   "archivedAt": 0,
-   "archiveLastCheckedAt": 0,
-   "failReason": ""
-  },
-  {
-   "id": "464bf40e",
-   "label": "",
-   "host": "45.74.31.46",
-   "port": 5790,
-   "type": "SOCKS5",
-   "username": "",
-   "password": "",
-   "country": "",
-   "enabled": true,
-   "protected": false,
-   "status": "ACTIVE",
-   "archiveAttempts": 0,
-   "archivedAt": 0,
-   "archiveLastCheckedAt": 0,
-   "failReason": ""
-  }
- ],
+ "proxies": [],
  "announcements": [],
  "maintenance": false,
  "maintenanceMessage": "",
@@ -95,44 +9,8 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792540479616,
- "health": {
-  "599d5cbf": {
-   "lat": 1945,
-   "health": "GOOD",
-   "down": 0.4809981651376147,
-   "up": 0.4259041429731925,
-   "at": 1792540457536
-  },
-  "464bf40e": {
-   "lat": 3202,
-   "health": "GOOD",
-   "down": 0.19134598540145986,
-   "up": null,
-   "at": 1792540467932
-  },
-  "ab2d3620": {
-   "lat": 1770,
-   "health": "GOOD",
-   "down": 0.5347149413564508,
-   "up": 0.4508065348237317,
-   "at": 1792540457357
-  },
-  "01b94599": {
-   "lat": 1889,
-   "health": "GOOD",
-   "down": 0.2013781448050701,
-   "up": 0.459498685363716,
-   "at": 1792540460466
-  },
-  "5833f9bf": {
-   "lat": 1313,
-   "health": "GOOD",
-   "down": 0.5521727224855186,
-   "up": 0.4854518518518518,
-   "at": 1792540457111
-  }
- },
+ "updatedAt": 1792545194825,
+ "health": {},
  "sourceSelection": {
   "selected": [
    "advanced.name",
