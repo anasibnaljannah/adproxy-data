@@ -1,6 +1,24 @@
 {
  "schema": 2,
- "proxies": [],
+ "proxies": [
+  {
+   "id": "af133d07",
+   "label": "",
+   "host": "77.221.148.116",
+   "port": 10808,
+   "type": "SOCKS5",
+   "username": "",
+   "password": "",
+   "country": "NL",
+   "enabled": true,
+   "protected": false,
+   "status": "ACTIVE",
+   "archiveAttempts": 0,
+   "archivedAt": 0,
+   "archiveLastCheckedAt": 0,
+   "failReason": ""
+  }
+ ],
  "announcements": [],
  "maintenance": false,
  "maintenanceMessage": "",
@@ -9,8 +27,16 @@
  "admins": [
   "anasibnaljannah@outlook.sa"
  ],
- "updatedAt": 1792545194825,
- "health": {},
+ "updatedAt": 1792545210293,
+ "health": {
+  "af133d07": {
+   "lat": 339,
+   "health": "GOOD",
+   "down": 1.4112732166890982,
+   "up": null,
+   "at": 1792545201451
+  }
+ },
  "sourceSelection": {
   "selected": [
    "advanced.name",
